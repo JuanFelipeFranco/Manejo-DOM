@@ -3,5 +3,9 @@ document.getElementById(‘id’) selecciona el elemento por el id
 document.getElementsByTagName(‘tag’) retorna un arreglo de los elementos por el nombre del tag
 document.querySelectorAll(“selector”) regresa todos los elementos con el mismo nombre
 
-DOM Objeto represntado de codigo es un arbol
-HTML
+DOM Objeto represntado de codigo es un arbol HTML - DOCUMENT - CLASES - DIV 
+
+
+Utilizar data-attributes
+Utilizar el método addEventListener para escuchar eventos de un elemento
+Prevenir el comportamiento patrón del formulario
